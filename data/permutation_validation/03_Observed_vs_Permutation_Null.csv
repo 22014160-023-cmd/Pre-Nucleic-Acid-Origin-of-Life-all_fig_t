@@ -1,0 +1,7 @@
+metric,observed,null_mean,null_sd
+Total network edges,1842.0,1842.0,0.0
+Cross-layer edges,1015.0,1419.2934,27.663876182569652
+Cross-layer fraction,0.5510314875135722,0.7705175895765473,0.015018390978593737
+Enrichment ratio,0.7151445923725144,1.0,
+Z-score,-14.614488487869082,0.0,1.0
+Empirical p-value,1.0,,

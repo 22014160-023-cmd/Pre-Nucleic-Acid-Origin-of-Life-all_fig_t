@@ -1,0 +1,8 @@
+layer_id,layer_name,directory,priority,scientific_role
+L0,Inorganic and Mineral Chemistry,data/inorganic,HIGH,Geochemical and mineral chemical context preceding complex organic chemistry.
+L1,Simple Organic Molecules,data/simple_organic,HIGH,Small carbon-containing molecules that can participate in prebiotic chemical networks.
+L2,Prebiotic Building Blocks,data/prebiotic,CRITICAL,Molecular precursors and building blocks associated with prebiotic chemistry.
+L3,Pre-Nucleic and Functional Molecular Systems,data/pre_nucleic,CRITICAL,Candidate molecular systems that could represent stages between simple chemistry and canonical nucleic acids.
+L4,Canonical Nucleic Acids,data/rna,HIGH,Reference layer representing RNA-associated chemistry and information storage.
+L5,DNA and Modern Genetic Information,data/dna,HIGH,Reference layer representing modern DNA-based genetic information systems.
+L6,Modern Biological Molecular Systems,data/proteins,MEDIUM,Modern biological reference layer used to compare molecular complexity with earlier chemical layers.
