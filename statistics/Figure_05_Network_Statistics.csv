@@ -1,0 +1,10 @@
+metric,value
+nodes,188.0
+edges,1842.0
+within_layer_edges,827.0
+cross_layer_edges,1015.0
+cross_layer_fraction,0.5510314875135722
+tanimoto_threshold,0.2
+morgan_radius,2.0
+morgan_fp_size,2048.0
+seed,20260908.0
